@@ -6,7 +6,7 @@ using System.Linq;
 
 namespace ConsoleApp8
 {
-    public class ProgramM
+    public class ProgramMMMM
     {
         static void Main(string[] args)
         {
